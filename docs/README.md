@@ -18,6 +18,11 @@
 6. **المقارنة** – GoMix مقابل الشيكر التقليدي.
 7. **الأسئلة الشائعة**.
 
+### تعديل النصوص
+كل نصوص الأقسام قابلة للتعديل من إعدادات كل قسم (عربي وإنجليزي): العناوين والأوصاف وبطاقات الأجزاء وصفوف المقارنة
+وقائمة الأسئلة الشائعة وتقييمات العملاء. الحقل الفارغ يعرض نص التصميم الأصلي. تعديلات المقارنة والأسئلة الشائعة في
+الرئيسية تظهر أيضاً في صفحة المنتج. نصوص صفحة المنتج في إعدادات الثيم (نصوص صفحة المنتج). لإبراز كلمة ضعها بين `**`.
+
 ### الإعدادات (محرر الثيم ← الإعدادات)
 | الإعداد | الوصف |
 |---|---|
@@ -45,6 +50,12 @@ Reorder or hide them in the theme editor (page elements):
 5. **Reviews** – image or a 360° video that turns with the scroll.
 6. **Comparison** – GoMix versus a traditional shaker.
 7. **FAQ**.
+
+### Editing texts
+Every section text is editable in that section's settings (Arabic and English): titles, descriptions, part cards,
+comparison rows, the FAQ list and customer reviews. An empty field shows the original design copy. Comparison and FAQ
+edits on the home page also show on the product page. Product page texts are in the theme settings (product page
+texts). Wrap a word in `**` to highlight it.
 
 ### Settings (theme editor → settings)
 | Setting | What it does |
